@@ -1,12 +1,4 @@
-Introduction
-------------
 
-SensorsData.cn is a Chinse website that provides user behavior analysis
-for customers. Here, I am going to clean the website log data for
-SensorsData and analyze user activities on this website. My goal is to
-discover interesting pattern and propose business insights to improve
-user application. This document is the second part, containing data
-transformation, feature selection and engineering.
 
 Load libraries
 --------------
