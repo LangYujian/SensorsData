@@ -1,10 +1,3 @@
-Introduction
-------------
-
-SensorsData.cn is a Chinse website that provides user behavior analysis
-for customers. Here, I am going to clean the website log data for
-SensorsData.
-
 Load libraries
 --------------
 
